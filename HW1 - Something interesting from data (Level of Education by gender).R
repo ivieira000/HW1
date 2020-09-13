@@ -1,3 +1,8 @@
+Assignment: HW1
+Name: Isabela Vieira
+Group: Akimawe Kadiri, Christopher Tinevra, Mostafa Ragheb
+Date: 09/13/2020
+
 load("acs2017_ny_data.RData")
 summary(acs2017_ny)
 print(NN_obs <- length(AGE))
