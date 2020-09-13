@@ -1,3 +1,8 @@
+Assignment: HW1
+Name: Isabela Vieira
+Group: Akimawe Kadiri, Christopher Tinevra, Mostafa Ragheb
+Date: 09/13/2020
+
 > sample(x = 1:6, size = 20, replace = TRUE)
 [1] 1 1 1 6 2 2 4 5 4 3 1 3 6 6 5 2 2 6 2 3
 > # This line of code allows R to generate 20 random outcomes from a sample containing 6 different variables (labelled as numerical characters from 1 to 6).
